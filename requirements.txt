@@ -1,0 +1,3 @@
+# Third-party Python packages used by code/ (everything else is the standard library).
+# External programs, not installed through pip: tesseract (screenshot OCR) and pdftotext from poppler (PDF text).
+pypdf
