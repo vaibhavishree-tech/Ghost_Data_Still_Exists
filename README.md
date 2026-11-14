@@ -236,6 +236,6 @@ The system makes every decision with deterministic code and does not call a lang
 
 **Where a model could help later:** summarising the findings of a case in plain language, reading difficult screenshots, and proposing hypotheses about unlinked records for a human to confirm.
 
-## What is not in code.zip
+## What is not included in the repository
 
 The `dataset/` folder, generated `work/` files, virtual environments, caches and any credentials. No API keys are used or required.
